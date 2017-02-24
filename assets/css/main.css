@@ -311,4 +311,7 @@ a:after {
 			transition: all .1s ease-in-out;
 }
 
-
+.enconstruccion{
+	width: 100%;
+	height: auto;
+}
