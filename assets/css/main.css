@@ -79,7 +79,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/Background-web_Republica-Rojinegra.png) no-repeat center top;
+	
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
@@ -98,6 +98,16 @@ a:after {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.bgwrap{
+	background: url(../img/Background-web_Republica-Rojinegra.png) no-repeat center top;
+
+}
+
+.bgwrapcopa{
+	background: url(../img/copaRR2017bg.jpg) center top;
+
 }
 
 #headerwrap h1 {
