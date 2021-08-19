@@ -386,12 +386,12 @@ a:hover {
   color: #ecb807!important
 }
 
-@font-face {
+/*@font-face {
   font-family: BigNoodleTitling;
   src: url(../assets/fonts/big_noodle_titling.ttf);
-}
+}*/
 
 .republica {
   font-family: BigNoodleTitling;
-  font-weight: bold;
+  font-weight: 600;
 }
