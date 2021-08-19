@@ -388,9 +388,10 @@ a:hover {
 
 @font-face {
   font-family: BigNoodleTitling;
-  src: url(\fonts\big_noodle_titling.ttf);
+  src: url(../assets/fonts/big_noodle_titling.ttf);
 }
 
 .republica {
   font-family: BigNoodleTitling;
+  font-weight: bold;
 }
