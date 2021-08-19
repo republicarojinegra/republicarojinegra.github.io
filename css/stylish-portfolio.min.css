@@ -385,3 +385,12 @@ a:hover {
 .text-secondary {
   color: #ecb807!important
 }
+
+@font-face {
+  font-family: BigNoodleTitling;
+  src: url(\fonts\big_noodle_titling.ttf);
+}
+
+.republica {
+  font-family: BigNoodleTitling;
+}
